@@ -1,15 +1,15 @@
-<h1 align="center">Bruno Ferreira</h1>
+<h1 align="center">Bruno Fernandes Campos</h1>
 
 <p align="center">
-  Desenvolvedor de software com interesse em desenvolvimento web, mobile e soluções backend. Atualmente focado em projetos acadêmicos e pessoais, buscando constantemente aprimorar minhas habilidades técnicas e contribuir com soluções funcionais e bem estruturadas.
+  Desenvolvedor de software com interesse em desenvolvimento web, mobile e Frontend. Atualmente focado em projetos acadêmicos e pessoais, buscando constantemente aprimorar minhas habilidades técnicas e contribuir com soluções funcionais e bem estruturadas.
 </p>
 
 ---
 
 ## 📌 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🛠️ Interesse por desenvolvimento de APIs, aplicações mobile e integração de sistemas.
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma.
+- 🛠️ Interesse por desenvolvimento de APIs, aplicações mobile e Experiência do Usuário.
 - 💡 Buscando aprendizado contínuo e boas práticas de desenvolvimento.
 
 ---
@@ -29,10 +29,10 @@
 
 ## 🚀 Projetos em destaque
 
-- [**BetterCallUs**](https://github.com/BananaaScript/BetterCallUs) — Sistema web para gerenciamento de contatos e usuários.
-- [**SGA**](https://github.com/BananaaScript/SGA) — Sistema de Gerenciamento Acadêmico para controle de alunos e disciplinas.
+- [**BetterCallUs**](https://github.com/BananaaScript/BetterCallUs) — Sistema web para gerenciamento de chamadas e serviços.
+- [**SGA**](https://github.com/BananaaScript/SGA) — Sistema de Gerenciamento de Ativos para empresas.
 - [**Meteorological Data Collector**](https://github.com/BananaScripts/Meteorological-Data-Collector) — Aplicação para coleta e análise de dados meteorológicos.
-- [**API 5º Semestre**](https://github.com/BananaScripts/API_5-Semester) — API backend desenvolvida para gerenciamento de recursos e autenticação de usuários.
+- [**API 5º Semestre**](https://github.com/BananaScripts/API_5-Semester) — Aplicativo mobile de gerenciamento de IA.
 
 ---
 
