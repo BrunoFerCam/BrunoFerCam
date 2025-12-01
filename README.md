@@ -47,8 +47,8 @@
 
 ## 📫 Contato
 
-- 📧 [brunofercam@gmail.com](mailto:brunofercam@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
+- 📧 [brunofernandescampos@gmail.com](mailto:brunofernandescampos@gmail.com)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/bruno-campos-97560b231/))
 
 ---
 
